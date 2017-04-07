@@ -1,7 +1,4 @@
 
-
-
-
 import machine,dht,ssd1306,time,esp
 import pbm
 
@@ -26,13 +23,4 @@ while True:
         for col in range(cat.width):
             oled.pixel(col, row, cat.get(row,col))
     oled.show()
-    
-    
-        
-    
-    
-    
-    
-    
-    
     
