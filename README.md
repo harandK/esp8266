@@ -12,3 +12,7 @@ python2.7
 pip install adafruit-ampy
 
 https://github.com/adafruit/ampy
+
+image from:
+
+https://github.com/adafruit/Adafruit_Python_SSD1306/tree/master/examples
