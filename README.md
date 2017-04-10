@@ -22,6 +22,6 @@ ampy --port /serial/port run main.py
 
 
 
-image from:
-
+<sub>image from:
 https://github.com/adafruit/Adafruit_Python_SSD1306/tree/master/examples
+</sub>
