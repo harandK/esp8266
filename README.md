@@ -18,7 +18,7 @@ https://github.com/adafruit/ampy
 
 Display the image
 
-ampy --port /serial/port run test.py
+ampy --port /serial/port run main.py
 
 
 
